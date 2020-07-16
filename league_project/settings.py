@@ -25,9 +25,9 @@ MEDIA_URL = "/media/"
 SECRET_KEY = 'q)=g*7ll^ah4kw*5amf_9(ar@*&ts8wt+p88(gtp#-shx(i8m!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = True 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['league-champions-app.herokuapp.com']
 
 
 # Application definition
